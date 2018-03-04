@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0443-001白石道人詩集歌曲-卷一.
 <pb:KR4d0309_SBCK_001-1a>¶
+# SB1_1288-022.png
 白石道人歌曲卷一¶
 　　　　　　　　　　番陽姜　䕫堯章¶
 歌曲¶
@@ -247,14 +248,21 @@
 　　　黄鍾之側它言側者同此然非三代之聲¶
 　　　乃漢燕樂爾予既得此調因製品&KR0076;法并¶
 <pb:KR4d0309_SBCK_001-11a>¶
+# SB1_1288-042.png
+# page missing
 <pb:KR4d0309_SBCK_001-12a>¶
+# SB1_1288-043.png
+# page missing
 <pb:KR4d0309_SBCK_001-13a>¶
+# SB1_1288-044.png
+# page missing
 <pb:KR4d0309_SBCK_001-14a>¶
 ¶
 白石道人歌曲卷一¶
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0447-001白石道人詩集附錄-一卷.
 <pb:KR4d0309_SBCK_001-1a>¶
+# SB1_1288-124.png
 白石道人歌曲跋¶
 歌曲特文人餘事耳或者少諧音律白石留心學¶
 古有志雅樂如會要所載奉常所録未能盡見也¶
@@ -272,6 +280,7 @@
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0448-001白石道人詩集集外詩-一卷.
 <pb:KR4d0309_SBCK_001-3a>¶
+# SB1_1287-125.png
 白石道人集外詩¶
 　　　　　　　　　　番陽姜　䕫堯章¶
 　　　燈詞(見武林舊事)¶
@@ -481,3 +490,4 @@
 (右踈影)¶
 <pb:KR4d0309_SBCK_001-12b>¶
 <pb:KR4d0309_SBCK_001-12b>¶
+# SB1_1287-145.png
